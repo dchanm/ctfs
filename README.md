@@ -1,0 +1,1 @@
+This repository contains a collection of Capture the Flag (CTF) writeups.
